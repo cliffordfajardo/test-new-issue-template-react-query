@@ -6,7 +6,7 @@ body:
       value: |
         Thank you for reporting an issue :pray:.
 
-        This issue tracker is for reporting bugs found in react-query (https://github.com/tannerlinsley/react-query)
+        This issue tracker is for reporting reproducible bugs or regression's found in react-query (https://github.com/tannerlinsley/react-query)
         If you have a question about how to achieve something and are struggling, please post a question
         inside of react-query's Discussion's tab: https://github.com/tannerlinsley/react-query/discussions
 
